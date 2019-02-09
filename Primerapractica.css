@@ -1,9 +1,6 @@
 body{
     background-image: url(https://thefader-res.cloudinary.com/private_images/w_1800,c_limit,f_auto,q_auto:best/Fader_BadBunny-2282_web_mrhibm/camiseta-hot-topic-shorts-de-bad-bunny-calcetines-nike-tenis-jordan.jpg);
 }
-img {
-    text-align: center;
-}
 
 h1{
     text-align: center;
@@ -35,7 +32,5 @@ a{
     font-size: 200%;
 }
 
-img {
-    text-align: center;
-}
+
 
