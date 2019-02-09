@@ -35,9 +35,17 @@ a{
 }
 
 button{
-    height: 150;
-    width: 150;
-    
+    height: 100;
+    width: 200;
+    background-color: 7C6F65;
+font-style: oblique;
+font-size: 200%;    
+
+
+}
+
+button:hover{
+    background-color: C0AC58;
 }
 
 
